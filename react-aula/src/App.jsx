@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <p>Olá,mundo!!!1</p>
+    <p>Olá,mundo!!!</p>
     </>
   )
 }
