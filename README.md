@@ -1,6 +1,6 @@
 # 01-vite-react-aula-20260908
 
-***baseh
+***bash
 sudo apt update
 ***
 
