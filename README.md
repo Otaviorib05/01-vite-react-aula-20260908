@@ -19,3 +19,7 @@ npm install -g npm11.19.0
 ***bash
 npm -v
 ***
+
+***bash
+npm create vite@latest
+***
